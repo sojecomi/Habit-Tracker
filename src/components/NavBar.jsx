@@ -4,8 +4,8 @@ function Navbar() {
     return <nav className="nav">
         <Link to="/" className="site-title">My Personal Porfolio</Link>
         <ul>
-            <CustomLink to="/aboutme">Home</CustomLink>
-            <CustomLink to="/contactme"></CustomLink>
+            <CustomLink to="/aboutme">About Me</CustomLink>
+            <CustomLink to="/contactme">Contact Me</CustomLink>
         </ul>
     </nav>
 }

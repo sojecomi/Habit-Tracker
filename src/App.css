@@ -26,6 +26,7 @@ body {
   list-style: none;
   display: flex;
   gap: 1rem;
+  color: black;
 }
 .nav a {
   color: inherit;
@@ -46,7 +47,7 @@ h1 {
   font-weight: bold;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
-  color: red;
+  color: black;
 
 }
 
@@ -64,8 +65,8 @@ p {
 }
 
 ul {
-  font-size: x-large;
-  color: lightcoral;
+  font-size: large;
+  color:black;
   
 }
 
